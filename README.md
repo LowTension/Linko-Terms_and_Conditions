@@ -6,48 +6,49 @@
 
 ## ✅ Acceptable Use
 By using Linko, you agree to:
-- Be at least 13 years old 🧒
-- Use the app only for personal link management
-- Not reverse engineer the code
+- Be at least **13 years** old 🧒
+- Use the app only for **personal link management**
+- Do not use Linko to store **inappropriate, prohibited, or dangerous** links
+- Do not **decompile** or **reverse-engineer** the code
 
 ---
 
 ## 🔐 Your Data = Your Control
 
-| Feature         | User Responsibility          |
-|-----------------|------------------------------|
-| **Links**       | You own 100% of your content |
-| **Folders**     | Organize as you prefer       |
-| **Backups**     | Manage where you save copies |
-| **App Lock**    | Protect with your own password |
+| Feature         | User Responsibility                |
+|-----------------|------------------------------------|
+| **Links**       | You own 100% of your content       |
+| **Folders**     | Organize as you prefer             |
+| **Backups**     | Choose where and how to store them |
+| **App Lock**    | Protect with your own password     |
 
 ---
 
 ## 💰 Premium (Subscription)
-| Aspect          | Conditions                          |
-|-----------------|-------------------------------------|
-| **Payment**     | Managed by Google Play              |
-| **Renewal**     | Automatic until cancellation        |
-| **Cancellation**| Through Google Play settings        |
-| **Refunds**     | According to Google Play policy     |
+| Aspect          | Conditions                           |
+|-----------------|--------------------------------------|
+| **Payment**     | Managed by **Google Play**           |
+| **Renewal**     | **Automatic**c until cancellation    |
+| **Cancellation**| Through **Google Play Settings**     |
+| **Refunds**     | According to **Google Play** policy  |
 
 ---
 
 ## ⚠️ Liability Limitations
-- We don't guarantee data recovery
-- We're not responsible for:
+- We **don't guarantee** data recovery
+- We're **not responsible** for:
   - Broken links or external content
   - Failures from unauthorized APK modification
-  - Damages from app misuse
+  - Damages resulting from app misuse
 
 ---
 
 ## 🛡️ Security
-| Protection       | Implementation                    |
-|------------------|-----------------------------------|
-| **Database**     | AES-256 encryption (Premium)      |
-| **Backups**      | Optional personal password        |
-| **Communications**| No external servers               |
+| Protection       | Implementation                                       |
+|------------------|------------------------------------------------------|
+| **Database**     | **AES-256** encryption (Premium)                     |
+| **Backups**      | Optional personal password                           |
+| **Communications**| No external servers receive your data               |
 
 ---
 
