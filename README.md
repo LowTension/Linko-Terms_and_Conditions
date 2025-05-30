@@ -8,6 +8,8 @@
 By using Linko, you agree to:
 - Be at least **13 years** old 🧒
 - Use the app only for **personal link management**
+
+### 🚫 Prohibitions
 - Do not use Linko to store **inappropriate, prohibited, or dangerous** links
 - Do not **decompile** or **reverse-engineer** the code
 
