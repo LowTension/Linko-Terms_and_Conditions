@@ -1,4 +1,4 @@
-# Linko - Terms and Conditions 📜
+## Linko - Terms and Conditions 📜
 
 **Last Updated:** May 29, 2025
 
@@ -17,7 +17,7 @@ By using Linko, you agree to:
 
 ## 🔐 Your Data = Your Control
 
-| Feature         | User Responsibility                |
+| **Feature**     | **User Responsibility**            |
 |-----------------|------------------------------------|
 | **Links**       | You own 100% of your content       |
 | **Folders**     | Organize as you prefer             |
@@ -26,13 +26,14 @@ By using Linko, you agree to:
 
 ---
 
-## 💰 Premium (Subscription)
-| Aspect          | Conditions                          |
-|-----------------|-------------------------------------|
-| **Payment**     | Managed by **Google Play**          |
-| **Renewal**     | **Automatic**c until cancellation   |
-| **Cancellation**| Through **Google Play Settings**    |
-| **Refunds**     | According to **Google Play** policy |
+## 💰 Premium Subscription
+
+| **Aspect**        | **Conditions**                         |
+|-------------------|----------------------------------------|
+| **Payment**       | Managed by **Google Play**             |
+| **Renewal**       | **Automatic** until cancellation       |
+| **Cancellation**  | Through **Google Play Settings**       |
+| **Refunds**       | According to **Google Play** policy    |
 
 ---
 
@@ -46,24 +47,25 @@ By using Linko, you agree to:
 ---
 
 ## 🛡️ Security
-| Protection       | Implementation                         |
-|------------------|----------------------------------------|
-| **Database**     | **AES-256** encryption (Premium)       |
-| **Backups**      | Optional personal password             |
-| **Communications**| No external servers receive your data |
+
+| **Protection**      | **Implementation**                       |
+|---------------------|------------------------------------------|
+| **Database**        | **AES-256** encryption (Premium only)    |
+| **Backups**         | Optional personal password protection    |
+| **Communications**  | No external servers receive your data    |
 
 ---
 
 ## 📝 Terms Changes
-- We'll notify about significant changes within the app
+- We'll notify about significant changes within the app  
 - Continued use means acceptance of new terms
 
 ---
 
 ## 🔄 Your Key Rights
-- Export all your data anytime (JSON format)
-- Cancel Premium anytime
-- Completely delete your data by uninstalling the app
+- Export all your data anytime (JSON format)  
+- Cancel Premium anytime  
+- Completely delete your data by uninstalling the app  
 
 ---
 
@@ -73,10 +75,10 @@ By using Linko, you agree to:
 A: Never! Your links belong only to you.
 
 **Q: What happens if I cancel Premium?**  
-A: You keep access to your data but lose advanced features
+A: You keep access to your data but lose advanced features.
 
 **Q: Is my payment information stored?**  
-A: No, all payments are processed by Google Play
+A: No, all payments are processed by Google Play.
 
 ---
 
