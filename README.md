@@ -27,12 +27,12 @@ By using Linko, you agree to:
 ---
 
 ## 💰 Premium (Subscription)
-| Aspect          | Conditions                           |
-|-----------------|--------------------------------------|
-| **Payment**     | Managed by **Google Play**           |
-| **Renewal**     | **Automatic**c until cancellation    |
-| **Cancellation**| Through **Google Play Settings**     |
-| **Refunds**     | According to **Google Play** policy  |
+| Aspect          | Conditions                          |
+|-----------------|-------------------------------------|
+| **Payment**     | Managed by **Google Play**          |
+| **Renewal**     | **Automatic**c until cancellation   |
+| **Cancellation**| Through **Google Play Settings**    |
+| **Refunds**     | According to **Google Play** policy |
 
 ---
 
@@ -46,11 +46,11 @@ By using Linko, you agree to:
 ---
 
 ## 🛡️ Security
-| Protection       | Implementation                                       |
-|------------------|------------------------------------------------------|
-| **Database**     | **AES-256** encryption (Premium)                     |
-| **Backups**      | Optional personal password                           |
-| **Communications**| No external servers receive your data               |
+| Protection       | Implementation                         |
+|------------------|----------------------------------------|
+| **Database**     | **AES-256** encryption (Premium)       |
+| **Backups**      | Optional personal password             |
+| **Communications**| No external servers receive your data |
 
 ---
 
